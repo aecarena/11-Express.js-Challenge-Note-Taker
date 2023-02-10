@@ -15,8 +15,8 @@ app.use(express.json());
 
 
 
-require('./routes/apiRoutes')(app);
-require('./routes/htmlRoutes')(app);
+require('./Routes/apiRoutes')(app);
+require('./Routes/htmlRoutes')(app);
 
 
 app.listen(PORT, () => {
