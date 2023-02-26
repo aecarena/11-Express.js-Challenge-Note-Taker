@@ -4,13 +4,13 @@
 
 This application allows the user to enter notes and as they save, they appear in the sidebar on the left. Notes can be deleted by clicking the trash can next to the corresponding note.
 
-##User Story
+## User Story
 
 AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
-##Acceptance Criteria
+## Acceptance Criteria
 
 GIVEN a note-taking application
 WHEN I open the Note Taker
