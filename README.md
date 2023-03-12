@@ -31,8 +31,8 @@ This application allows the user to enter notes and as they save, they appear in
 
 ### Screenshots
 
-  ![alt text](public/assets/Screen Shot 2023-03-12 at 2.24.11 PM.png)
-  ![alt text](public/assets/Screen Shot 2023-03-12 at 2.24.20 PM.png)
+![alt text](public/assets/Screen Shot 2023-03-12 at 2.24.11 PM.png)
+![alt text](public/assets/Screen Shot 2023-03-12 at 2.24.20 PM.png)
  
   
 ## Installation
