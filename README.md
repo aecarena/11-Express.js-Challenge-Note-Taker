@@ -4,6 +4,9 @@
 
 This application allows the user to enter notes and as they save, they appear in the sidebar on the left. Notes can be deleted by clicking the trash can next to the corresponding note.
 
+## Badges
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ### User Story
 
   - AS A small business owner
@@ -25,3 +28,22 @@ This application allows the user to enter notes and as they save, they appear in
   - THEN that note appears in the right-hand column
   - WHEN I click on the Write icon in the navigation at the top of the page
   - THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+
+### Screenshots
+
+  ![alt text](/public/assets/Screen Shot 2023-03-12 at 2.24.11 PM.png)
+  ![alt text](/public/assets/Screen Shot 2023-03-12 at 2.24.20 PM.png)
+ 
+  
+## Installation
+
+  1- Run npm install
+  2- Run Node server.js
+  3- either deploy to heroku or type into search bar localhost:3001
+  
+ ## Usage
+ 
+ This is a challenge designed by the University of Washington bootcamp to showcase the learning and understanding of coursework.
+ 
+ ## License
+[Read MIT License](https://opensource.org/licenses/MIT)
